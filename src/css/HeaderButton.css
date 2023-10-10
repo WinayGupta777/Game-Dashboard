@@ -1,0 +1,18 @@
+.headerButton {
+    height: 80px;
+    width: 200px;
+    padding: 0 5px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #e47a01bf;
+    background-color: #e47901;
+    cursor: pointer;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.headerButton .title {
+    font-size: 25px;
+    font-weight: 700;
+}
